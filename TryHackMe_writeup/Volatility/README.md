@@ -160,7 +160,7 @@ There is 12 dll that were used by the infected process.
 Virus total recognize extracted dll as virus
 
 
-<image>
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/TryHackMe_writeup/Volatility/virusOrNot.png)
 
 
 
