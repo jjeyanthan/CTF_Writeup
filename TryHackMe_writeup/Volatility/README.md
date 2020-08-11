@@ -168,3 +168,6 @@ last question name of the malware that virus total find ?
 
 
 
+
+
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/TryHackMe_writeup/Volatility/virus_name.png)
