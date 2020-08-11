@@ -134,7 +134,7 @@ based on characteristics such as VAD tag and page permissions."
 answer: 1860,1820,2464
 
 
-
+```
 
 # 3. IOC SAGA
 
@@ -213,7 +213,7 @@ With the plugins envars we can find the environnement variable
 answer: OANOCACHE
 
 ```
-#usefull ressource 
+# Usefull ressource 
 
 
 ```
