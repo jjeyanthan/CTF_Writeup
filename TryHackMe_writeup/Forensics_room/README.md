@@ -29,7 +29,7 @@ INFO    : volatility.debug    : Determining profile based on KDBG search...
 
 
 
-answer : the suggested  line tels us more about the Os : windows
+answer : the 'Suggested Profile(s)'  line tel's us more about the Operating system : windows
 
 question: 
 
