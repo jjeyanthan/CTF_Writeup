@@ -21,7 +21,7 @@ So the only material is  disk.img file.
 Let's make some basics command :
 
 ```
-![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/fileOf.png)
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/chall_1/fileOf.png)
 
 
 ```
@@ -30,8 +30,8 @@ It is a partition table from a hard drive.
 Maybe there are some files that were delete , let's try  foremost disk.img
 ```
 
-![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/foremostOf.png)
-![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/catOF.png)
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/chall_1/foremostOf.png)
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/chall_1/catOF.png)
 
 
 ```
@@ -42,7 +42,7 @@ I try to use  stegsolve but nothing.
 Then I just try to use steghide without password and boom : 
 ```
 
-![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/steghideOf.png)
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/chall_1/steghideOf.png)
 
 
 ```
@@ -53,7 +53,7 @@ I try to use CyberChef and :
 
 ```
 
-![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/catOf.png)
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/chall_1/catOf.png)
 
 
 ```
@@ -63,7 +63,7 @@ I try to use the order file like adding at the end of each file in ascending ord
 
 ```
 
-![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/ohcat.png)
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/chall_1/ohcat.png)
 
 
 ```
@@ -79,14 +79,14 @@ because it was so obvious for me that it wouldn't work, it is crack the passphra
 
 ```
 
-![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/crackOf.png)
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/chall_1/crackOf.png)
 
 ```
 Enter the passphrase and it gives me flag.txt
 
 ```
 
-![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/final.png)
+![alt text](https://github.com/jeyan-m/CTF_Writeup/blob/master/ASCW_writeup/Forensics/chall_1/final.png)
 
 
 
