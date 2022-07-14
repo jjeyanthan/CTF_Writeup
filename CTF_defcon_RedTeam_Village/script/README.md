@@ -1,5 +1,4 @@
 # Ping Pong 
-Author: [JeYan] (https://github.com/jeyanthan-markandu)
 
 # Challenge 
 
