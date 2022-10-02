@@ -2,7 +2,7 @@
 
 ![starting_point](chal.png)
 
-We have two endpoint and  the source code : 
+We have two endpoints and  the source code : 
 
 https://notes-2.challs.wreckctf.com/
 
