@@ -1,0 +1,7 @@
+set architecture arm
+target remote localhost:4444
+b* main
+b* main+56
+b* puts+142
+b* puts+188
+b* read+32
